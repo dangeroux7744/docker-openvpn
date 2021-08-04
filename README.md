@@ -1,3 +1,10 @@
+# Changes
+
+Added init.sh which does the initialization steps for you, so no copy paste just
+./init.sh www.myserver.com
+then generate_client which does the same for creating client configs
+./generate_client.sh myclientname
+
 # OpenVPN for Docker
 
 [![Build Status](https://travis-ci.org/kylemanna/docker-openvpn.svg)](https://travis-ci.org/kylemanna/docker-openvpn)
