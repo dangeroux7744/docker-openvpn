@@ -1,5 +1,5 @@
 # Changes
-
+TODO 1 command to ovpn file
 Added init.sh which does the initialization steps for you, so no copy paste just
 ./init.sh www.myserver.com
 then generate_client which does the same for creating client configs
